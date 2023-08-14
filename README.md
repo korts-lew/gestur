@@ -1,7 +1,7 @@
 # GESTUR: Gradient Estimation for Unseen Domain Risk Minimization with Pre-Trained Models
 
 An official PyTorch implementation of ["Gradient Estimation for Unseen Domain Risk Minimization with Pre-Trained Models"](https://arxiv.org/abs/2302.01497) (OOD-CV Workshop in ICCV'23).
-This codebase is built on [MIRO](https://github.com/kakaobrain/miro)
+This codebase is built on [MIRO](https://github.com/kakaobrain/miro).
 
 ## Preparation
 

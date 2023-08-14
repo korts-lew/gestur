@@ -62,3 +62,14 @@ Our searched HPs:
 | Dropout       | 0.0  | 0.5  | 0.5        | 0.0            | 0.1       |
 | Weight decay  | 0.0  | 1e-4 | 1e-6       | 0.0            | 1e-4      |
 | Lambda        | 0.01 | 0.05 | 0.01       | 0.01           | 0.01      |
+
+## Citation
+```
+@article{
+  lew2023gestur,
+  title={Gradient Estimation for Unseen Domain Risk Minimization with Pre-Trained Models},
+  author={Lew, Byounggyu and Son, Donghyun and Chang, Buru},
+  journal={arXiv preprint arXiv:2302.01497},
+  year={2023},
+}
+```
